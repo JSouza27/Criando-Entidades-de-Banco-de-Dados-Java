@@ -20,3 +20,4 @@ Após clonar é só abrir o projeto na sua IDE favorita.
 - Java 8
 - Spring Boot + JPA
 - Maven
+- Banco de Dados em Memória H2
