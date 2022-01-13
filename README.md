@@ -18,3 +18,5 @@ Após clonar é só abrir o projeto na sua IDE favorita.
 ## Linguagem usada
 
 - Java 8
+- Spring Boot + JPA
+- Maven
